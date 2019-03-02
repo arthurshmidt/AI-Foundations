@@ -17,3 +17,7 @@ Program Name | Description
 ------------ | ------------
 1.CartPole.py | Test implementation of tensorflow, gym, tflearn.  Intended to develop a basic understanding of how the gym environment works and how to implement tensorflow.
 2-test.py | next programs
+
+## Project Descriptions
+### 1-CarPole.py
+<update>
