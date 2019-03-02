@@ -10,7 +10,7 @@ Python: 3.7.2
 * pandas 0.24.1
 * tensorflow 1.13.0rc2
 * tflearn 0.3.2
-* spinningup 0.1
+* spinningup 0.1.2
 
 ## Index of Examples
 Program Name | Description
