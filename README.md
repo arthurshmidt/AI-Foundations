@@ -15,5 +15,5 @@ Python: 3.7.2
 ## Index of Examples
 Program Name | Description
 ------------ | ------------
-1. CartPole.py | Test implementation of tensorflow, gym, tflearn
-2. test.py | next programs
+1-CartPole.py | Test implementation of tensorflow, gym, tflearn
+2-test.py | next programs
