@@ -15,5 +15,5 @@ Python: 3.7.2
 ## Index of Examples
 Program Name | Description
 ------------ | ------------
-1-CartPole.py | Test implementation of tensorflow, gym, tflearn
+1-CartPole.py | Test implementation of tensorflow, gym, tflearn.  Intended to develop a basic understanding of how the gym environment works and how to implement tensorflow.
 2-test.py | next programs
